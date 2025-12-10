@@ -479,4 +479,12 @@ h6 {
 		justify-content: center;
 	}
 }
+@media (max-width: 415px) {
+	.header__menu-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+}
 /*---SECTION---------------------------------------------------------------------------------------------------------------*/
+
